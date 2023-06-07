@@ -2,6 +2,16 @@ body {
   background: rgb(250, 250, 246);
 }
 
+.form{
+  text-align: center;
+}
+.form.iframe {
+  display: block;
+  border-style:none;
+  display: inline-block;
+  margin: 0 auto;
+}
+
 /* Navbar */
 
 .Navbar {
