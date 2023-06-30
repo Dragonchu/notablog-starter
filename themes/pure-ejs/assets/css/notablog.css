@@ -12,6 +12,14 @@ body {
   margin: 0 auto;
 }
 
+/*comment middle*/
+.comment{
+  margin: 0 auto;
+  width: 100%;
+  max-width: 900px;
+  padding: 0 96px;
+}
+
 /* Navbar */
 
 .Navbar {
